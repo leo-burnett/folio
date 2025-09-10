@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8918cd05b316774b",
+        "id": "f883ec026eb9f725",
         "type": "tabs",
         "children": [
           {
-            "id": "d5784b0fca21a87a",
+            "id": "11ed26378b9f5b84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/category-folder/Projects/Maine Digital Experience Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Maine Digital Experience Project"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/category-folder/Projects/Maine Digital Experience Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Maine Digital Experience Project"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/category-folder/Projects/Maine Digital Experience Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Maine Digital Experience Project"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/category-folder/Projects/Maine Digital Experience Project.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Maine Digital Experience Project"
             }
           }
         ]
@@ -169,18 +169,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "d5784b0fca21a87a",
+  "active": "11ed26378b9f5b84",
   "lastOpenFiles": [
-    "source/content/category-folder/Some note.md",
+    "source/content/category-folder/Projects/Ripe for Repair.md",
+    "source/content/category-folder/Projects/Year Round Housing.md",
+    "source/content/category-folder/Writing/Personal writing.md",
+    "source/content/category-folder/Writing/The Burn.md",
+    "source/content/category-folder/Writing/Maine Morning Star.md",
+    "source/content/category-folder/Campaigns/Yes on 2 Portland.md",
+    "source/content/category-folder/Writing",
+    "source/content/category-folder/Campaigns/The Rose Slate.md",
+    "source/content/category-folder/Campaigns/Protect Maine Elections.md",
+    "source/content/category-folder/Campaigns/People First Portland.md",
+    "source/content/category-folder/Campaigns/Kate Snyder for Mayor.md",
+    "source/content/category-folder/Campaigns/Fair Elections Portland.md",
+    "source/content/category-folder/Campaigns/Betsy Sweet for US Senate.md",
+    "source/content/category-folder/Projects/Old/Maine Uses Ranked Choice Voting.md",
+    "source/content/category-folder/Projects/Old/OpenMaine.md",
+    "source/content/category-folder/Projects/Old/Civic Design Fest.md",
+    "source/content/category-folder/Projects/Old/Making it in Maine.md",
+    "source/content/category-folder/Projects/Maine Digital Experience Project.md",
+    "source/content/category-folder/Campaigns/Untitled",
+    "source/content/category-folder/Campaigns",
+    "source/content/category-folder/Projects/Old",
+    "source/content/category-folder/Projects",
+    "source/content/category-folder/Reading.md",
+    "source/content/category-folder/About me.md",
     "source/content/category-folder/index.md",
-    "2025-09-10.md",
-    "source/docs/authoring content.md",
+    "source/content/category-folder/About me/Untitled.md",
+    "source/content/category-folder/About me",
     "source/content/index.md",
-    "source/docs/philosophy.md",
-    "source/docs/layout.md",
-    "source/docs/index.md",
-    "source/docs/hosting.md",
-    "source/docs/configuration.md",
-    "source/docs/build.md"
+    "source/docs/features/folder and tag listings.md",
+    "source/docs/features/explorer.md",
+    "source/docs/features/Docker Support.md",
+    "source/docs/features/darkmode.md",
+    "source/quartz/static/og-image.png",
+    "source/quartz/static/icon.png"
   ]
 }
