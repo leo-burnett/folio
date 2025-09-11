@@ -1,5 +1,6 @@
 ---
 title: Leo Burnett
+cssclasses:
 ---
 
 Welcome. I'm an writer, organizer, and activist based in Portland, Maine. 
