@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Categories/Resources/Zines.md",
+                "file": "source/content/Categories/Resources/Clean Your Phone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zines"
+              "title": "Clean Your Phone"
+            }
+          },
+          {
+            "id": "a691951519453fe3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Categories/Resources/Clean Your Phone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Clean Your Phone"
             }
           },
           {
@@ -113,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Categories/Resources/Clean Your Phone.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Clean Your Phone"
             }
           },
           {
@@ -151,7 +161,8 @@
               "title": "Outline of index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,12 +182,13 @@
   },
   "active": "11ed26378b9f5b84",
   "lastOpenFiles": [
+    "source/content/index.md",
+    "source/content/Categories/Resources/Clean Your Phone.md",
+    "source/content/Categories/Resources/Zines.md",
+    "source/content/Categories/index.md",
     "source/docs/Reading.md",
     "source/docs/About me.md",
-    "source/content/Categories/Resources/Zines.md",
-    "source/content/index.md",
     "source/content/Categories/Untitled",
-    "source/content/Categories/index.md",
     "source/docs/Tools I like using.md",
     "source/README.md",
     "source/content/Categories/Resources",
