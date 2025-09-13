@@ -13,7 +13,5 @@ Resources for educators:
 
 Clean Your Phone: 
 - **This is a work in progress**. If you'd like to share the zine, please share this website and not the PDF link, as it's not yet ready for publication and sharing. I'll update it here. 
-
-![[Zine.pdf]] 
-
-
+	- [Here's the draft link](https://drive.proton.me/urls/ZXQ6N672W8#BrIbtT39MNZX)
+	
