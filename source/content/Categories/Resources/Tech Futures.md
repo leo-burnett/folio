@@ -1,23 +1,22 @@
-Organizing, Advocacy, and Capacity Building for the age of AI in Maine
+### Organizing, Advocacy, and Capacity Building for the age of AI
 
   Technology and the advancement of new tools like AI are being deployed in communities across the state at a breakneck speed. Very few guardrails exist to keep people safe from the ways this tech is currently being used — let alone the future implications these invasive, extractive tools can have on marginalized communities. 
 
-  Just in the last year alone in Maine: 
+  ***Just in the last year alone in Maine***: 
 
-- Over ten new law enforcement agencies have started using drones. 
-    
+- Over ten new law enforcement agencies have started using drones[^1]. 
+
 - Several police departments in the state are now using AI transcription software that’s described by the [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency) as being “intentionally designed to skirt transparency” so the public can’t even tell when a police report has been written by AI or by an officer.
-    
-- Towns like Sanford are [considering](https://sanfordspringvalenews.com/traffic-cameras-safety-tool-or-big-brother/) the installation of Flock cameras: the same company that gave [ICE agents](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/) access to a national database of AI-enabled cameras. 
-    
+
+- Towns like Sanford are [considering](https://sanfordspringvalenews.com/traffic-cameras-safety-tool-or-big-brother/) the installation of Flock cameras: the same company that gave [ICE agents](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/) access to a national database of AI-enabled cameras[^2]. 
+
 - School departments and town governments are using and [deploying AI](https://themainemonitor.org/ai-maine-schools/) with little scrutiny or understanding around the false promises, inaccuracies, and biases that are built into the technology that ultimately does very few of the things it claims to be capable of doing.
-    
 
-Maine needs to create a unified, strategic plan to combat the harms of AI and surveillance technology — led by the workers and communities poised to be most impacted by its effects. 
+Maine needs to create a unified, strategic plan to combat the harms of AI and surveillance technology that's led by the workers and communities poised to be most impacted by its effects. 
 
-I’m seeking to make connections with labor unions, community groups, and progressive organizing spaces to offer training, educational events, communications resources and organizing to grow our individual and collective capacity to interrogate and limit the power of big tech. 
+**I’m seeking to make connections with labor unions, community groups, and progressive organizing spaces to offer training, educational events, communications resources and organizing to grow our individual and collective capacity to interrogate and limit the power of big tech.** 
 
-Political organizing offerings include:
+#### Political organizing offerings include:
 
 - Convening and facilitating a coalition of groups that are committed to holding technology — and especially tech bought and paid for by taxpayer dollars — accountable to the public interest.
 
@@ -31,4 +30,8 @@ Political organizing offerings include:
 
 Do you know anyone who would like to fund this work? Are you a member of a group who would welcome a training or event around digital security, cleaning our phones, or understanding what AI actually is? Do you want to join a coalition to fight back against big tech in the state of Maine? 
 
-Learn more about who I am and my experience here. If you're interested in working together, get in touch with me at [leo@omniumcollective.com](mailto:leo@omniumcollective.com). 
+Learn more about who I am and my experience at [About Leo]. If you're interested in working together, get in touch with me at [leo@omniumcollective.com](mailto:leo@omniumcollective.com). 
+
+[^1]: According to comments made at the September 9, 2025 HHS Committee [meeting](https://portlandme.portal.civicclerk.com/event/8035/media)
+
+[^2]: My father actually reported on this story in the next room over from me, at the same time that I was [writing](https://theburn.beehiiv.com/p/the-police-want-to-buy-a-drone-cruise-ship-pollution-and-more) about Portland’s drone purchase. The synchronicity of these two events led me to create this document.
