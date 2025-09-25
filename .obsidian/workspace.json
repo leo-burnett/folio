@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "ff7964e686b5123b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/Categories/Resources/Tech Futures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tech Futures"
+            }
+          },
+          {
             "id": "a691951519453fe3",
             "type": "leaf",
             "state": {
@@ -31,7 +45,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Categories/Resources/Clean Your Phone.md",
+                "file": "source/docs/build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Clean Your Phone"
+              "title": "Backlinks for build"
             }
           },
           {
@@ -123,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Categories/Resources/Clean Your Phone.md",
+                "file": "source/docs/build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Clean Your Phone"
+              "title": "Outgoing links from build"
             }
           },
           {
@@ -180,42 +195,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "11ed26378b9f5b84",
+  "active": "ff7964e686b5123b",
   "lastOpenFiles": [
-    "Zine.pdf",
-    "source/content/index.md",
     "source/content/Categories/Resources/Clean Your Phone.md",
+    "source/content/Categories/About/About Leo.md",
+    "source/content/Categories/Resources/Tech Futures.md",
+    "source/content/Categories/About",
+    "Untitled",
+    "source/content/index.md",
+    "source/docs/build.md",
+    "source/docs/authoring content.md",
+    "source/docs/Draft/About me.md",
+    "source/docs/Draft",
+    "Zine.pdf",
     "source/content/Categories/Resources/Zines.md",
     "source/content/Categories/index.md",
-    "source/docs/Reading.md",
-    "source/docs/About me.md",
-    "source/content/Categories/Untitled",
-    "source/docs/Tools I like using.md",
+    "source/docs/Draft/Reading.md",
+    "source/docs/Draft/Tools I like using.md",
     "source/README.md",
     "source/content/Categories/Resources",
     "README.md",
     "source/CODE_OF_CONDUCT.md",
-    "source/docs/Campaigns/People First Portland.md",
-    "source/docs/Campaigns/Fair Elections Portland.md",
-    "source/docs/Campaigns/Betsy Sweet for US Senate.md",
-    "source/docs/Campaigns/Kate Snyder for Mayor.md",
+    "source/docs/Draft/Campaigns/People First Portland.md",
+    "source/docs/Draft/Campaigns/Fair Elections Portland.md",
+    "source/docs/Draft/Campaigns/Betsy Sweet for US Senate.md",
+    "source/docs/Draft/Campaigns/Kate Snyder for Mayor.md",
     "source/docs/Projects/Maine Digital Experience Project.md",
     "source/docs/Projects/Ripe for Repair.md",
     "source/docs/Projects/Year Round Housing.md",
-    "source/docs/Writing/Personal writing.md",
-    "source/docs/Writing/The Burn.md",
-    "source/docs/Writing/Maine Morning Star.md",
-    "source/docs/Campaigns/Yes on 2 Portland.md",
-    "source/docs/Writing",
-    "source/docs/Campaigns/The Rose Slate.md",
-    "source/docs/Campaigns/Protect Maine Elections.md",
-    "source/docs/Projects/Old/Maine Uses Ranked Choice Voting.md",
-    "source/docs/Projects/Old/OpenMaine.md",
+    "source/docs/Draft/Writing/Personal writing.md",
+    "source/docs/Draft/Writing/The Burn.md",
+    "source/docs/Draft/Writing/Maine Morning Star.md",
+    "source/docs/Draft/Campaigns/Yes on 2 Portland.md",
+    "source/docs/Draft/Writing",
+    "source/docs/Draft/Campaigns/The Rose Slate.md",
     "source/content/category-folder/Campaigns/Untitled",
-    "source/docs/Campaigns",
+    "source/docs/Draft/Campaigns",
     "source/docs/Projects/Old",
     "source/docs/Projects",
-    "source/content/category-folder/About me",
     "source/quartz/static/og-image.png",
     "source/quartz/static/icon.png"
   ]
