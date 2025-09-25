@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Categories/About/About Leo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "About Leo"
             }
           },
           {
@@ -197,12 +197,13 @@
   },
   "active": "ff7964e686b5123b",
   "lastOpenFiles": [
-    "source/content/Categories/Resources/Tech Futures.md",
-    "source/content/Categories/Resources/Clean Your Phone.md",
+    "resources and events.md",
     "source/content/Categories/About/About Leo.md",
+    "source/content/index.md",
+    "source/content/Categories/Resources/Clean Your Phone.md",
+    "source/content/Categories/Resources/Tech Futures.md",
     "source/content/Categories/About",
     "Untitled",
-    "source/content/index.md",
     "source/docs/build.md",
     "source/docs/authoring content.md",
     "source/docs/Draft/About me.md",
@@ -228,7 +229,6 @@
     "source/docs/Draft/Writing/Maine Morning Star.md",
     "source/docs/Draft/Campaigns/Yes on 2 Portland.md",
     "source/docs/Draft/Writing",
-    "source/docs/Draft/Campaigns/The Rose Slate.md",
     "source/content/category-folder/Campaigns/Untitled",
     "source/docs/Draft/Campaigns",
     "source/docs/Projects/Old",
