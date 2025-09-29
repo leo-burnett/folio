@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Categories/About/About Leo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "About Leo"
             }
           }
         ],
@@ -188,11 +188,12 @@
   "active": "ff7964e686b5123b",
   "lastOpenFiles": [
     "source/content/Categories/Resources/Tech Futures.md",
-    "source/content/Categories/About/About Leo.md",
     "source/content/Categories/Resources/Clean Your Phone.md",
     "source/content/Categories/About/Reading and Listening.md",
-    "source/content/Categories/About/Leo's work.md",
+    "source/content/Categories/About/About Leo.md",
     "source/content/index.md",
+    "source/content/Categories/index.md",
+    "source/content/Categories/About/Leo's work.md",
     "Clean.md",
     "resources and events.md",
     "source/content/Categories/About",
@@ -203,7 +204,6 @@
     "source/docs/Draft",
     "Zine.pdf",
     "source/content/Categories/Resources/Zines.md",
-    "source/content/Categories/index.md",
     "source/docs/Draft/Reading.md",
     "source/docs/Draft/Tools I like using.md",
     "source/README.md",
