@@ -12,7 +12,7 @@
 
 - School departments and town governments are using and [deploying AI](https://themainemonitor.org/ai-maine-schools/) with little scrutiny or understanding around the false promises, inaccuracies, and biases that are built into the technology that ultimately does very few of the things it claims to be capable of doing.
 
-We need an organized and resourced coalition in the state of Maine to empower individuals and organizations across the state to be in control of the technology that's in our hands and on our streets. Our tax dollars are paying for the installation of the world's most pervasive surveillance state at the same time that thousands in Maine are losing health coverage and paying more than ever for groceries and housing. 
+We need an organized and resourced coalition in the state of Maine to empower individuals and organizations across the state to be in control of the technology that's in our hands and on our streets.
 
 **I’m seeking to make connections with labor unions, community groups, and progressive organizing spaces to offer training, strategy, communications resources, and organizing to grow our individual and collective capacity to interrogate and limit the power of Big Tech.** 
 
