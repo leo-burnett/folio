@@ -8,4 +8,4 @@ Leo brings a cultural and political understanding of technology that's grounded 
 
 Leo writes about tech ([here](https://mainemorningstar.com/2024/10/01/maine-is-flying-blind-with-police-technology/) and [here](https://mainemorningstar.com/2024/03/22/maines-opportunity-to-rein-in-big-tech/)), advocates for digital privacy, creates community resources and events — like the [Clean Your Phone] zine — and works with [organizations](https://www.openmobilityfoundation.org/) that promote open source technology.
 
-You can see what they are reading on [book lists].
+You can see what's fueling their current musings at [[Reading and Listening]].
