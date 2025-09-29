@@ -1,6 +1,6 @@
 Zine:
 - **This is a work in progress**. If you'd like to share the zine, please share this website and not the PDF link, as it's not yet ready for publication and sharing. I'll update it here. 
-	- [Here's the draft link](https://drive.proton.me/urls/ZXQ6N672W8#BrIbtT39MNZX
+	- [Here's the draft link](https://drive.proton.me/urls/ZXQ6N672W8#BrIbtT39MNZX)
 
 Links and resources referenced in **Clean Your Phone**
 
