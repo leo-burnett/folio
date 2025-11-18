@@ -1,6 +1,7 @@
 Zine:
-- **This is a work in progress**. If you'd like to share the zine, please share this website and not the PDF link, as it's not yet ready for publication and sharing. I'll update it here. 
-	- [Here's the draft link](https://drive.proton.me/urls/ZXQ6N672W8#BrIbtT39MNZX)
+- Clean Your Phone the zine is [**available to download here**](https://leo-burnett.github.io/clean-your-phone/zine/print.pdf). If you want a print copy, get in touch! 
+
+If you'd like to support the work it took to make this Zine, and the years of experience that went into producing the larger body of knowledge.. send me a few bucks on Venmo (venmo.com/u/leoleoleob) and/or read the [[Tech Futures]] page and connect me with people who can fund this kind of work.
 
 Links and resources referenced in **Clean Your Phone**
 
