@@ -1,6 +1,6 @@
 Technology and the advancement of new tools like AI are being deployed in communities across the state at a breakneck speed. Very few guardrails exist to keep people safe from the ways this tech is currently being used — let alone the future implications of these tools. 
 
-Learn more: [[Portland Police drone]], and comments on the State AI Task Force Recommendations (coming soon.) 
+Learn more: [[Portland Police Drone]], and comments on the State AI Task Force Recommendations (coming soon.) 
 
   ***Just in the last year alone in Maine***: 
 

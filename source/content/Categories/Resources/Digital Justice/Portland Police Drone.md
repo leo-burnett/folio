@@ -1,7 +1,5 @@
 Here you can find talking points, memos, and other testimony and materials I've developed about the Portland Police drone. 
-
-**Public comment on drone purchase: Nov 16, 2025**
-##Pre-Vote comment on drone purchase: Nov 16, 2025##
+Pre-Vote comment on drone purchase: Nov 16, 2025
 --
 *This is an email I sent to the Portland City Council on November 16th, 2025 ahead of a council vote on the proposed purchase of a drone by the Portland Police Department.*
 Hello Councilors,
