@@ -1,4 +1,10 @@
 Here you can find talking points, memos, and other testimony and materials I've developed about the Portland Police drone. 
+
+Reading:
+* ACLU: Eye-in-the-Sky Policing Needs Strict Limits : [https://www.aclu.org/documents/eye-in-the-sky-policing-needs-strict-limits](https://www.aclu.org/documents/eye-in-the-sky-policing-needs-strict-limits)
+- The AI Drones Used In Gaza Now Surveilling American Cities: [https://www.donotpanic.news/p/the-ai-drones-used-in-gaza-now-surveilling](https://www.donotpanic.news/p/the-ai-drones-used-in-gaza-now-surveilling)
+- Community Control of Police Spy Tech: [https://www.eff.org/deeplinks/2021/05/community-control-police-spy-tech](https://www.eff.org/deeplinks/2021/05/community-control-police-spy-tech)
+
 Pre-Vote comment on drone purchase: Nov 16, 2025
 --
 *This is an email I sent to the Portland City Council on November 16th, 2025 ahead of a council vote on the proposed purchase of a drone by the Portland Police Department.*
