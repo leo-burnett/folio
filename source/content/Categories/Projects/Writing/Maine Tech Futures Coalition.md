@@ -2,7 +2,7 @@
  
 I’m seeking to make connections with labor unions, community groups, and progressive organizing spaces to offer training, strategy, communications resources, and organizing to grow our individual and collective capacity to interrogate and limit the power of Big Tech.
 
-Read more on [[Local Surveillance Technology]] specific to Maine and check out my testimony and written comments page relating to the State AI Task Force Recommendations and the Portland Police's proposed drone purchase. 
+Read more on [[Maine Surveillance Tech]] specific to Maine and check out my testimony and written comments page relating to the State AI Task Force Recommendations and the Portland Police's proposed drone purchase. 
 
 #### Political organizing offerings include:
 
