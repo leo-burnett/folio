@@ -39,17 +39,14 @@
             "id": "616c83b84695f104",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "source/content/Categories/Projects/Welcome.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -5.261195550322105,
-                  "zoom": -0.5
-                }
+                "file": "source/content/Categories/Index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Welcome"
+              "icon": "lucide-file",
+              "title": "Index"
             }
           }
         ],
@@ -145,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading.md",
+                "file": "source/content/Categories/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Reading"
+              "title": "Outgoing links from Index"
             }
           },
           {
@@ -203,9 +200,13 @@
   },
   "active": "616c83b84695f104",
   "lastOpenFiles": [
-    "source/content/Categories/Home.md",
+    "source/content/index.md",
+    "README.md",
+    "Zine.pdf",
+    "Untitled.md",
+    "source/content/Categories/Index.md",
+    "source/content/Categories/Projects/Digital Justice/Projects.base",
     "source/content/Categories/Projects/Welcome.canvas",
-    "source/content/Categories/index.md",
     "source/content/Categories/About/About Leo.md",
     "source/quartz/static/icon.png",
     "source/quartz/static/og-image.png",
@@ -227,10 +228,7 @@
     "source/docs/Draft/Writing/The Burn.md",
     "source/docs/Draft/Writing/Personal writing.md",
     "source/docs/Draft/Writing/Maine Morning Star.md",
-    "README.md",
     "source/content/Categories/Projects/Digital Justice",
-    "Zine.pdf",
-    "Untitled.md",
     "Digital Justice.md",
     "Additional Info on Drone Purchase.md",
     "Public Comment on the Drone Purchase.md",
@@ -239,7 +237,6 @@
     "Untitled",
     "source/docs/Draft",
     "source/content/Categories/Projects",
-    "source/docs/Draft/Writing",
-    "source/content/category-folder/Campaigns/Untitled"
+    "source/docs/Draft/Writing"
   ]
 }
