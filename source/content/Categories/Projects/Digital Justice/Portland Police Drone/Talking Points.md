@@ -7,7 +7,7 @@ The Portland Police are looking for approval to buy a drone from the company Axo
 This approval comes as a growing number of police and sheriff's departments in Maine are purchasing new, AI-enabled surveillance tools. Just in the last year alone, eleven **new** agencies in Maine have started using drones. 
 
 ### The basics
-- Portland's drone would cost a whopping **$45,316** in upfront costs. Every three years, the city would need to pay **$23,790** for Licensing, Storage, Warranty and Service contract. 
+- Portland's drone would cost a whopping $45,316 in upfront costs. Every three years, the city would need to pay $23,790 for Licensing, Storage, Warranty and Service contract. 
 	- This doesn't include repairs or replacement costs.
 - Axon partners with a company **Skydio** to make its drones. Skydio has extensive ties to both the Israeli government and to Israeli-backed funders. Read: [The AI Drones Used In Gaza Now Surveilling American Cities](https://www.donotpanic.news/p/the-ai-drones-used-in-gaza-now-surveilling)
 - **The City Council — and the public — have no significant oversight of how and when the drone will be used.**
