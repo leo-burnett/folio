@@ -39,14 +39,17 @@
             "id": "616c83b84695f104",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "source/content/Categories/About/Leo's work.md",
-                "mode": "source",
-                "source": false
+                "file": "source/content/Categories/Projects/Welcome.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -5.261195550322105,
+                  "zoom": -0.5
+                }
               },
-              "icon": "lucide-file",
-              "title": "Leo's work"
+              "icon": "lucide-layout-dashboard",
+              "title": "Welcome"
             }
           }
         ],
@@ -142,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Categories/About/Leo's work.md",
+                "file": "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Leo's work"
+              "title": "Outgoing links from Reading"
             }
           },
           {
@@ -200,16 +203,30 @@
   },
   "active": "616c83b84695f104",
   "lastOpenFiles": [
-    "source/content/Categories/Projects/Writing/Maine Tech Futures Coalition.md",
+    "source/content/Categories/Home.md",
+    "source/content/Categories/Projects/Welcome.canvas",
+    "source/content/Categories/index.md",
+    "source/content/Categories/About/About Leo.md",
+    "source/quartz/static/icon.png",
+    "source/quartz/static/og-image.png",
+    "source/docs/showcase.md",
+    "source/docs/layout.md",
+    "source/docs/index.md",
+    "source/docs/configuration.md",
+    "source/docs/build.md",
+    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading.md",
+    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Talking Points.md",
+    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Testimony.md",
     "source/content/Categories/Projects/Digital Justice/Maine Surveillance Tech.md",
+    "source/content/Categories/Projects/Digital Justice/Clean Your Phone Zine.md",
+    "source/docs/Draft/Leo's work.md",
+    "source/content/Categories/Projects/Digital Justice/Portland Police Drone",
+    "source/content/Categories/Projects/Digital Justice/Maine Tech Futures Coalition.md",
     "source/docs/Draft/Reading.md",
     "source/docs/Draft/Tools I like using.md",
     "source/docs/Draft/Writing/The Burn.md",
     "source/docs/Draft/Writing/Personal writing.md",
     "source/docs/Draft/Writing/Maine Morning Star.md",
-    "source/content/Categories/Projects/Writing/Clean Your Phone.md",
-    "source/content/Categories/Projects/Digital Justice/Portland Police Drone.md",
-    "source/content/Categories/index.md",
     "README.md",
     "source/content/Categories/Projects/Digital Justice",
     "Zine.pdf",
@@ -217,26 +234,12 @@
     "Digital Justice.md",
     "Additional Info on Drone Purchase.md",
     "Public Comment on the Drone Purchase.md",
-    "source/content/Categories/About/Leo's work.md",
-    "source/content/Categories/About/About Leo.md",
-    "source/content/index.md",
-    "source/content/Categories/About/Reading and Listening.md",
     "source/content/Categories/Projects/Writing",
-    "Clean.md",
-    "resources and events.md",
     "source/content/Categories/About",
     "Untitled",
-    "source/docs/build.md",
-    "source/docs/authoring content.md",
-    "source/docs/Draft/About me.md",
     "source/docs/Draft",
-    "source/content/Categories/Resources/Zines.md",
-    "source/README.md",
     "source/content/Categories/Projects",
     "source/docs/Draft/Writing",
-    "source/content/category-folder/Campaigns/Untitled",
-    "source/docs/Draft/Campaigns",
-    "source/quartz/static/og-image.png",
-    "source/quartz/static/icon.png"
+    "source/content/category-folder/Campaigns/Untitled"
   ]
 }
