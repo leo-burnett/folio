@@ -4,7 +4,7 @@ Here you can find talking points I've developed about the Portland Police drone.
 
 The Portland Police are looking for approval to buy a drone from the company Axon (see more [[source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading|reading]] on Axon here.)
 
-> [info!] The drone purchase will most likely be on the next  City Council agenda on [**December 1, 2025**](https://portlandme.portal.civicclerk.com/event/8370/overview)
+> [!info] The drone purchase will most likely be on the next  City Council agenda on [**December 1, 2025**](https://portlandme.portal.civicclerk.com/event/8370/overview)
 
 This approval comes as a growing number of police and sheriff's departments in Maine are purchasing new, AI-enabled surveillance tools. Just in the last year alone, eleven **new** agencies in Maine have started using drones. 
 
