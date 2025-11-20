@@ -20,7 +20,7 @@ This approval comes as a growing number of police and sheriff's departments in M
 - The Trump administration is creating a massive surveillance program, aided by cooperation from tech companies. **Any data stored by Axon could get turned over to the Trump administration** to aid in its deportation agenda.
 	- It doesn't matter that Portland technically "owns" its data, when it's stored in the cloud. "Cloud companies that hold and manage your data can almost always access it, which means they can be compelled to hand it over to governments." - [*Wired Magazine*](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
 ## More details
-- State-level policy is not adequate and was developed prior to this kind of AI-enabled surveillance technology was developed.
+- State-level policy is not adequate and was developed before this kind of AI-enabled surveillance technology existed.
 	- The State of Maine has a required reporting mechanism for police use of drones, but this report fails basic transparency mechanisms. The public ought to know where, when, and why the police are using drones, in a quick and searchable way. This report fails basic transparency mechanisms:
 		- The report is a scanned *letter* that simply lists all the times law enforcement used drones in Maine. 
 		- The report only comes out once a year.
