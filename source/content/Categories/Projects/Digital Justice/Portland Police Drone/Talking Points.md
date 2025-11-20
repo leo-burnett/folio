@@ -9,10 +9,12 @@ This approval comes as a growing number of police and sheriff's departments in M
 ### The basics
 - We have a right to choose what kind of technology the city is buying with our tax dollars.
 - We have a right to privacy.
-- This kind of tech is new: AI-enabled surveillance drones
-- This drone would cost $45,316 to start. 
-- Every three years, the city would need to pay $23,790 for Licensing, Storage, Warranty and Service contract, which doesn't include repairs or replacement costs.
-- Axon partners with a company **Skydio** to make its drones. Skydio has extensive ties to both the Israeli government and to Israeli-backed funders. Read: [The AI Drones Used In Gaza Now Surveilling American Cities](https://www.donotpanic.news/p/the-ai-drones-used-in-gaza-now-surveilling)
+- **This kind of tech is new, and it's dangerous**: AI-enabled surveillance drones have only existed for a few years.
+	- In places where these drones have been deployed at scale, reports show that the drones are used to surveil poor, Black, and brown neighborhoods. [Wired Magazine](https://www.wired.com/story/the-age-of-the-drone-police-is-here/)
+- **Police tech is expensive**: This drone would cost $45,316 to start. 
+	- Every three years, the city would need to pay $23,790 for Licensing, Storage, Warranty and Service contract, which doesn't include repairs or replacement costs.
+- **Axon has a monopoly on police tech**, and they are even being sued in a class-action lawsuit by the City of Augusta, Maine for their price-gouging practices. *Read*: [Second US town sues Taser-maker Axon for antitrust violations](https://www.reuters.com/legal/litigation/second-us-town-sues-taser-maker-axon-antitrust-violations-2023-10-05/).
+- Axon partners with a company **Skydio** to make its drones. Skydio has extensive ties to both the Israeli government and to Israeli-backed funders. *Read*: [The AI Drones Used In Gaza Now Surveilling American Cities](https://www.donotpanic.news/p/the-ai-drones-used-in-gaza-now-surveilling)
 - **The City Council — and the public — have no significant oversight of how and when the drone will be used.**
 	- The proposal is a **purchase order** which is accompanied by an internal police operating procedure. It is ***not*** an ordinance about how and when police can use drones and it is entirely up to the police to determine if their own procedures are being followed.
 - The Trump administration is creating a massive surveillance program, aided by cooperation from tech companies. **Any data stored by Axon could get turned over to the Trump administration** to aid in its deportation agenda.
