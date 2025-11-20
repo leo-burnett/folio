@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Index.md",
+                "file": "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Talking Points.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Talking Points"
             }
           }
         ],
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Index.md",
+                "file": "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Talking Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Index"
+              "title": "Outgoing links from Talking Points"
             }
           },
           {
@@ -200,8 +200,10 @@
   },
   "active": "616c83b84695f104",
   "lastOpenFiles": [
-    "source/content/index.md",
+    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading.md",
+    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Talking Points.md",
     "source/content/Index.md",
+    "source/content/index.md",
     "README.md",
     "Zine.pdf",
     "Untitled.md",
@@ -215,8 +217,6 @@
     "source/docs/index.md",
     "source/docs/configuration.md",
     "source/docs/build.md",
-    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading.md",
-    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Talking Points.md",
     "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Testimony.md",
     "source/content/Categories/Projects/Digital Justice/Maine Surveillance Tech.md",
     "source/content/Categories/Projects/Digital Justice/Clean Your Phone Zine.md",
