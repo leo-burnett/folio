@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Categories/Index.md",
+                "file": "source/content/Index.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Categories/Index.md",
+                "file": "source/content/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -201,10 +201,10 @@
   "active": "616c83b84695f104",
   "lastOpenFiles": [
     "source/content/index.md",
+    "source/content/Index.md",
     "README.md",
     "Zine.pdf",
     "Untitled.md",
-    "source/content/Categories/Index.md",
     "source/content/Categories/Projects/Digital Justice/Projects.base",
     "source/content/Categories/Projects/Welcome.canvas",
     "source/content/Categories/About/About Leo.md",
