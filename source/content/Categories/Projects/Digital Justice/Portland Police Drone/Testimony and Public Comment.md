@@ -22,7 +22,7 @@ It therefore is simply inaccurate to rest on any assurances that this tech is we
 >
 >Thank you. I am looking forward to working with you on that broader effort to protect our safety and determine what kind of tech we want on our streets. 
 
-> [!Abstract]- Email to Council: Nov 18, 2025
+> [!abstract]- Email to Council: Nov 18, 2025
 *This is the text of an email sent to the Portland City Council on November 18, 2025 following the vote to purchase a drone. The vote failed, but it's likely to reappear on the next agenda.*
 >
 > Hello Mayor and City Councilors,
