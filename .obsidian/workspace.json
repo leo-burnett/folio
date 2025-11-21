@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Testimony and Public Comment.md",
+                "file": "source/content/Categories/Projects/Digital Justice/Portland Police Drone/What You Need to Know.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testimony and Public Comment"
+              "title": "What You Need to Know"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Testimony and Public Comment.md",
+                "file": "source/content/Categories/Projects/Digital Justice/Portland Police Drone/What You Need to Know.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Testimony and Public Comment"
+              "title": "Outgoing links from What You Need to Know"
             }
           },
           {
@@ -171,8 +171,14 @@
   },
   "active": "96772a8bbf6b145b",
   "lastOpenFiles": [
-    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/What You Need to Know.md",
+    "source/docs/Draft/Tools I like using.md",
+    "source/docs/advanced/paths.md",
+    "source/docs/advanced/making plugins.md",
+    "source/docs/advanced/index.md",
+    "source/docs/advanced/creating components.md",
+    "source/docs/advanced/architecture.md",
     "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Testimony and Public Comment.md",
+    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/What You Need to Know.md",
     "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading.md",
     "source/content/Index.md",
     "source/content/Categories/About/About Leo.md",
@@ -180,7 +186,7 @@
     "source/CODE_OF_CONDUCT.md",
     "source/README.md",
     "source/content/Categories/Projects/Digital Justice/Maine Surveillance Tech.md",
-    "source/content/Categories/Projects/Digital Justice/Maine Tech Futures Coalition.md",
+    "source/docs/Draft/Campaigns/Maine Tech Futures Coalition.md",
     "source/docs/Draft/Reading.md",
     "source/content/index.md",
     "Zine.pdf",
@@ -197,13 +203,7 @@
     "source/content/Categories/Projects/Digital Justice/Clean Your Phone Zine.md",
     "source/docs/Draft/Leo's work.md",
     "source/content/Categories/Projects/Digital Justice/Portland Police Drone",
-    "source/docs/Draft/Tools I like using.md",
-    "source/docs/Draft/Writing/The Burn.md",
-    "source/docs/Draft/Writing/Personal writing.md",
-    "source/docs/Draft/Writing/Maine Morning Star.md",
     "source/content/Categories/Projects/Digital Justice",
-    "Digital Justice.md",
-    "Additional Info on Drone Purchase.md",
     "source/content/Categories/Projects/Writing",
     "source/content/Categories/About",
     "Untitled",

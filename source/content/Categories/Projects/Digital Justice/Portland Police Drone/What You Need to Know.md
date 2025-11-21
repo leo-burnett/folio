@@ -1,16 +1,18 @@
 Here you can find more info about the Portland Police drone. 
-- [[source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading.md|Reading]]
+- [[source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading|Reading]]
 - [[Testimony and Public Comment]]
 
 ## What's Happening
 
-The Portland Police are looking for approval to buy a drone from the company Axon (see more info on Axon [here](source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading.md)
+The Portland Police are looking for approval to buy a drone from the company Axon (see more info on Axon [[source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading|here]].)
 
 > [!info] The drone purchase will most likely be on the next  City Council agenda on [**December 1, 2025**](https://portlandme.portal.civicclerk.com/event/8370/overview)
 
 This approval comes as a growing number of police and sheriff's departments in Maine are purchasing new, AI-enabled surveillance tools. Just in the last year alone, *eleven* **new** agencies in Maine have started using drones. 
 
 ## What You Need to Know
+
+We badly need a broader discussion about police surveillance technology .
 
 - We have a right to choose what kind of technology the city is buying with our tax dollars.
 - We have a right to privacy.
@@ -26,17 +28,15 @@ This approval comes as a growing number of police and sheriff's departments in M
 	- It doesn't matter that Portland technically "owns" its data when it's stored in the cloud. "Cloud companies that hold and manage your data can almost always access it, which means they can be compelled to hand it over to governments." - [*Wired Magazine*](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
 ## More details
 - State-level policy is not adequate and was developed before this kind of AI-enabled surveillance technology existed.
-	- The State of Maine has a required reporting mechanism for police use of drones, but this report fails basic transparency mechanisms. 
-	- The public ought to know where, when, and why the police are using drones, in a quick and searchable way. This report fails basic transparency mechanisms. The report:
+	- The State of Maine has a required reporting mechanism for police use of drones, but [this report](https://portlandme.portal.civicclerk.com/event/8035/files/attachment/27619) fails basic transparency mechanisms. 
+	- The public ought to know where, when, and why the police are using drones, in a quick and searchable way. That is not how Maine regulates police use of drones. Instead, the report:
 		- Is a scanned *letter* that simply lists all the times law enforcement used drones in Maine. 
 		- Only comes out once a year.
 		- Is not searchable. 
 		- Is not standardized. 
 			- Some agencies get specific and write paragraphs about each deployment, and others simply have notes like "crime scene."
-		- Gives no details on the location of the deployment.
+		- Requires no details on the location of the deployment.
 		- Has no requirement for dates. Some departments put dates in their notes, most do not.
 
-
-We demand a broader discussion about police surveillance technology, and more protections.
 
 [^1]: https://portlandme.portal.civicclerk.com/event/8035/files/attachment/27615
