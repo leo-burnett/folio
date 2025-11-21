@@ -1,4 +1,4 @@
-Get more info on the drone.
+Get more info on the drone. You can also read [[Testimony and Public Comment]] and [[What You Need to Know]] about the drone.
 ## On **Police Drones**
 
 The ACLU report is a really helpful and thorough overview of the technology; the blog is a great tie-in that discusses Skydio Drones, which is the company that makes drones for Axon.
