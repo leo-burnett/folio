@@ -20,16 +20,6 @@
               "icon": "lucide-file",
               "title": "What You Need to Know"
             }
-          },
-          {
-            "id": "3f26ab43932aece5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ]
       }
@@ -181,12 +171,12 @@
   },
   "active": "96772a8bbf6b145b",
   "lastOpenFiles": [
+    "source/content/Index.md",
+    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Testimony and Public Comment.md",
+    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading.md",
+    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/What You Need to Know.md",
     "source/content/Categories/Projects/Digital Justice/Maine Surveillance Tech.md",
     "source/content/Categories/Projects/Digital Justice/Maine Tech Futures Coalition.md",
-    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/What You Need to Know.md",
-    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading.md",
-    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Testimony and Public Comment.md",
-    "source/content/Index.md",
     "README.md",
     "source/docs/Draft/Reading.md",
     "source/content/index.md",

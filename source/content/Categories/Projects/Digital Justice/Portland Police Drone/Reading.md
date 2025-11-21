@@ -1,10 +1,11 @@
-Properties
+Get more info on the drone.
 ## On **Police Drones**
 
 The ACLU report is a really helpful and thorough overview of the technology; the blog is a great tie-in that discusses Skydio Drones, which is the company that makes drones for Axon.
 
 * ACLU: [Eye-in-the-Sky Policing Needs Strict Limits](https://www.aclu.org/documents/eye-in-the-sky-policing-needs-strict-limits](https://www.aclu.org/documents/eye-in-the-sky-policing-needs-strict-limits)
 - Do Not Panic Blog: [The AI Drones Used In Gaza Now Surveilling American Cities](https://www.donotpanic.news/p/the-ai-drones-used-in-gaza-now-surveilling)
+- It Could Happen Here Podcast: [Police Drones and You](https://www.iheart.com/podcast/105-it-could-happen-here-30717896/episode/police-drones-and-you-147227394/)
 
 ## On **Axon**
 

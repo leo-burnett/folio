@@ -1,5 +1,5 @@
 Here you can find more info about the Portland Police drone. 
-- [[source/docs/Draft/Reading|Reading]]
+- [[source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading.md|Reading]]
 - [[Testimony and Public Comment]]
 
 ## What's Happening
@@ -16,14 +16,14 @@ This approval comes as a growing number of police and sheriff's departments in M
 - We have a right to privacy.
 - **This kind of tech is new, and it's dangerous**: AI-enabled drones add to the growing number of surveillance devices being deployed on our streets. 
 	- In places where these drones have been deployed at scale, reports show that the drones are used to surveil poor, Black, and brown neighborhoods. [Wired Magazine](https://www.wired.com/story/the-age-of-the-drone-police-is-here/)
-- **Police tech is expensive**: This drone would cost $45,316 to start. 
-	- Every three years, the city would need to pay $23,790 for "Licensing, Storage, Warranty and Service" which doesn't include repairs or replacement costs.
-- **Axon has a monopoly on police tech**, and they are even being sued in a class-action lawsuit by the City of Augusta, Maine for their price-gouging practices. *Read*: [Second US town sues Taser-maker Axon for antitrust violations](https://www.reuters.com/legal/litigation/second-us-town-sues-taser-maker-axon-antitrust-violations-2023-10-05/).
+- **Police tech is expensive**: This drone [would cost $45,316 to start](https://portlandme.portal.civicclerk.com/event/8035/files/attachment/27615). 
+	- Every three years, the city would need to pay $23,790 for "Licensing, Storage, Warranty and Service"[^1] which doesn't include repairs or replacement costs.
+- **The contract with Axon could get even more expensive** because Axon has a monopoly on a lot of police tech; they are even being sued in a class-action lawsuit by the City of Augusta, Maine for their price-gouging practices. *Read*: [Second US town sues Taser-maker Axon for antitrust violations](https://www.reuters.com/legal/litigation/second-us-town-sues-taser-maker-axon-antitrust-violations-2023-10-05/).
 - Axon partners with a company **Skydio** to make its drones. Skydio has extensive ties to both the Israeli government and to Israeli-backed funders. *Read*: [The AI Drones Used In Gaza Now Surveilling American Cities](https://www.donotpanic.news/p/the-ai-drones-used-in-gaza-now-surveilling)
 - **The City Council — and the public — have no significant oversight of how and when the drone will be used.**
 	- The proposal is a **purchase order** which is accompanied by an internal police operating procedure. It is ***not*** an ordinance about how and when police can use drones and it is entirely up to the police to determine if their own procedures are being followed.
-- The Trump administration is creating a massive surveillance program, aided by cooperation from tech companies. **Any data stored by Axon could get turned over to the Trump administration** to aid in its deportation agenda.
-	- It doesn't matter that Portland technically "owns" its data, when it's stored in the cloud. "Cloud companies that hold and manage your data can almost always access it, which means they can be compelled to hand it over to governments." - [*Wired Magazine*](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
+- **The Trump administration is creating a massive surveillance program, with tech companies like Axon playing a key role in the effort**. Many companies have already aided in this effort, especially those that host cloud services like Amazon. Some companies like **Flock** have sent data directly to ICE to aid in its deportation agenda.
+	- It doesn't matter that Portland technically "owns" its data when it's stored in the cloud. "Cloud companies that hold and manage your data can almost always access it, which means they can be compelled to hand it over to governments." - [*Wired Magazine*](https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/)
 ## More details
 - State-level policy is not adequate and was developed before this kind of AI-enabled surveillance technology existed.
 	- The State of Maine has a required reporting mechanism for police use of drones, but this report fails basic transparency mechanisms. 
@@ -39,3 +39,4 @@ This approval comes as a growing number of police and sheriff's departments in M
 
 We demand a broader discussion about police surveillance technology, and more protections.
 
+[^1]: https://portlandme.portal.civicclerk.com/event/8035/files/attachment/27615
