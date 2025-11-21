@@ -1,5 +1,5 @@
 Here you can find more info about the Portland Police drone. 
-- [[source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading|Reading]]
+* [[source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading|Reading]]
 - [[Testimony and Public Comment]]
 
 ## What's Happening
