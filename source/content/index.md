@@ -10,6 +10,7 @@ This site is the start of a project to openly share what I'm learning, communica
 Here are some things you might want to check out while here:
 - [Digital Justice resources](source/content/Categories/Projects/Digital Justice)
 - [[Clean Your Phone zine]]
+- [Portland drone](source/content/Categories/Projects/Digital Justice/Portland Police Drone): reading, info, and testimony
 
 If you're here and you want to get in touch about collaborating on trainings or other offerings, send me an email at leo@omniumcollective.com.
 
