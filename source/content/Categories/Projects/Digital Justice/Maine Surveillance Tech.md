@@ -4,7 +4,7 @@ Technology and the advancement of new tools like AI are being deployed in commun
 
 ### Drones
 - Eleven *new* law enforcement agencies in Maine have started using drones[^1] in the last year alone.
-- Learn more about the [Portland Police Drone](source/content/Categories/Projects/Digital Justice/Portland Police Drone/What You Need to Know.md).
+- Learn more about the [[What You Need to Know|Portland Police drone]].
 ### AI Transcription Software
 
 - Several police departments in the state are now using AI transcription software that’s described by the [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency) as being “intentionally designed to skirt transparency.” The software intentionally deletes drafts of AI-generated police reports, making it impossible to tell whether the final report was edited by an officer or entirely written by a large language model trained on [biased, racist data](https://www.technologyreview.com/2024/03/11/1089683/llms-become-more-covertly-racist-with-human-intervention/).

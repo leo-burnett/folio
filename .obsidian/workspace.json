@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Testimony and Public Comment.md",
+                "file": "source/content/Categories/Projects/Digital Justice/Maine Surveillance Tech.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testimony and Public Comment"
+              "title": "Maine Surveillance Tech"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Testimony and Public Comment.md",
+                "file": "source/content/Categories/Projects/Digital Justice/Maine Surveillance Tech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Testimony and Public Comment"
+              "title": "Outgoing links from Maine Surveillance Tech"
             }
           },
           {
@@ -171,6 +171,7 @@
   },
   "active": "96772a8bbf6b145b",
   "lastOpenFiles": [
+    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Testimony and Public Comment.md",
     "source/content/Categories/Projects/Digital Justice/Portland Police Drone/What You Need to Know.md",
     "source/docs/Draft/Tools I like using.md",
     "source/docs/advanced/paths.md",
@@ -178,7 +179,6 @@
     "source/docs/advanced/index.md",
     "source/docs/advanced/creating components.md",
     "source/docs/advanced/architecture.md",
-    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Testimony and Public Comment.md",
     "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading.md",
     "source/content/Index.md",
     "source/content/Categories/About/About Leo.md",
