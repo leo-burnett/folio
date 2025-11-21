@@ -1,17 +1,20 @@
-Here you can find talking points I've developed about the Portland Police drone. What is it and why is it bad? Read on to learn more.
+Here you can find more info about the Portland Police drone. 
+- [[source/docs/Draft/Reading|Reading]]
+- [[Testimony and Public Comment]]
 
 ## What's Happening
 
-The Portland Police are looking for approval to buy a drone from the company Axon (see more [[source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading|reading]] on Axon here.)
+The Portland Police are looking for approval to buy a drone from the company Axon (see more info on Axon [here](source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading.md)
 
 > [!info] The drone purchase will most likely be on the next  City Council agenda on [**December 1, 2025**](https://portlandme.portal.civicclerk.com/event/8370/overview)
 
-This approval comes as a growing number of police and sheriff's departments in Maine are purchasing new, AI-enabled surveillance tools. Just in the last year alone, eleven **new** agencies in Maine have started using drones. 
+This approval comes as a growing number of police and sheriff's departments in Maine are purchasing new, AI-enabled surveillance tools. Just in the last year alone, *eleven* **new** agencies in Maine have started using drones. 
 
 ## What You Need to Know
+
 - We have a right to choose what kind of technology the city is buying with our tax dollars.
 - We have a right to privacy.
-- **This kind of tech is new, and it's dangerous**: AI-enabled surveillance drones have only existed for a few years.
+- **This kind of tech is new, and it's dangerous**: AI-enabled drones add to the growing number of surveillance devices being deployed on our streets. 
 	- In places where these drones have been deployed at scale, reports show that the drones are used to surveil poor, Black, and brown neighborhoods. [Wired Magazine](https://www.wired.com/story/the-age-of-the-drone-police-is-here/)
 - **Police tech is expensive**: This drone would cost $45,316 to start. 
 	- Every three years, the city would need to pay $23,790 for "Licensing, Storage, Warranty and Service" which doesn't include repairs or replacement costs.

@@ -20,6 +20,4 @@ Do you know anyone who would like to fund this work? Are you a member of a group
 
 Learn more about who I am and my experience at [[About Leo]]. If you're interested in working together, get in touch with me at [leo@omniumcollective.com](mailto:leo@omniumcollective.com). 
 
-[^1]: According to comments made at the September 9, 2025 HHS Committee [meeting](https://portlandme.portal.civicclerk.com/event/8035/media), approximately minute 10:40.
 
-[^2]: My father actually reported on this story in the next room over from me, at the same time that I was [writing](https://theburn.beehiiv.com/p/the-police-want-to-buy-a-drone-cruise-ship-pollution-and-more) about Portland’s drone purchase. The synchronicity of these two events led me to create this document.
