@@ -1,10 +1,10 @@
 Here you can find more info about the Portland Police drone. 
-* [[source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading|Reading]]
+* [[Learn more|Learn more]]
 - [[Testimony and Public Comment]]
 
 ## What's Happening
 
-The Portland Police are looking for approval to buy a drone from the company Axon (see more info on Axon [[source/content/Categories/Projects/Digital Justice/Portland Police Drone/Reading|here]].
+The Portland Police are looking for approval to buy a drone from the company Axon (see more info on Axon [[Learn more|here]].
 
 > [!info] The drone purchase will most likely be on the next  City Council agenda on [**December 1, 2025**](https://portlandme.portal.civicclerk.com/event/8370/overview)
 
