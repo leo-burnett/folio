@@ -13,6 +13,7 @@ It's good to understand who our tax dollars are funding and supporting.
 
 - *Reuters*: The City of Augusta, Maine joined a class-action lawsuit against Axon in 2023, [alleging antitrust violations](https://www.reuters.com/legal/litigation/second-us-town-sues-taser-maker-axon-antitrust-violations-2023-10-05/)
 - *TechCrunch*: [Axon’s AI Ethics Board resigns over plan to surveil schools with armed drones](https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/)
+- *Vice*: [Bodycam Maker Axon Is on a Mission to Surveil America with AI](https://www.vice.com/en/article/axon-acquires-fusus-ai-surveillance-retail-healthcare/)
 
 ## On **Alternatives**
 
