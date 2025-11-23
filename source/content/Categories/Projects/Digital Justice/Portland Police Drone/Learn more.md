@@ -19,4 +19,4 @@ It's good to understand who our tax dollars are funding and supporting.
 
 What can we do about it? This is emerging, but at the very least we can stop new contracts, end existing contracts, and demand more community control of our tech.
 
-- EFF: [Community Control of Police Spy Tech](https://www.eff.org/deeplinks/2021/05/community-control-police-spy-tech](https://www.eff.org/deeplinks/2021/05/community-control-police-spy-tech) 
+- EFF: [Community Control of Police Spy Tech](https://www.eff.org/deeplinks/2021/05/community-control-police-spy-tech) 
