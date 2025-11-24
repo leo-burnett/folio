@@ -1,7 +1,10 @@
 Zine:
 - Clean Your Phone the zine is [**available to download here**](https://leo-burnett.github.io/clean-your-phone/zine/print.pdf). If you want a print copy, get in touch! 
+- The zine lives on [GitHub](https://github.com/leo-burnett/clean-your-phone) where you can read, suggest edits, and follow along with updates.
 
-If you'd like to support the work it took to make this Zine, and the years of experience that went into producing the larger body of knowledge.. send me a few bucks on Venmo (venmo.com/u/leoleoleob) and/or read the [[Maine Tech Futures Coalition]] page and connect me with people who can fund this kind of work.
+If you spot an error or want to suggest additions or edits to the zine, open an issue on GitHub - or send me an email at leo@omniumcollective.com.
+
+If you'd like to support the work it took to make this Zine, and the years of experience that went into producing the larger body of knowledge.. send me a few bucks on [Venmo](venmo.com/u/leoleoleob). You're also welcome to reach out via [email](mailto:leo@omniumcollective.com) to schedule a 1-1 consultation.
 
 Links and resources referenced in **Clean Your Phone**
 

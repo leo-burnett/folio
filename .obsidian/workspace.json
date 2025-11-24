@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Learn more.md",
+                "file": "source/content/Categories/Projects/Digital Justice/Clean Your Phone Zine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learn more"
+              "title": "Clean Your Phone Zine"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Learn more.md",
+                "file": "source/content/Categories/Projects/Digital Justice/Clean Your Phone Zine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Learn more"
+              "title": "Outgoing links from Clean Your Phone Zine"
             }
           },
           {
@@ -200,14 +200,18 @@
   },
   "active": "60146a8266a694e7",
   "lastOpenFiles": [
+    "source/content/Categories/Projects/Digital Justice/Maine AI Task Force/Comments on the Draft Recommendations.md",
+    "source/content/Categories/Projects/Digital Justice/Clean Your Phone Zine.md",
+    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Learn more.md",
+    "source/content/Categories/Projects/Digital Justice/Maine AI Task Force",
+    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Testimony and Public Comment/Testimony and Public Comment.md",
+    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Testimony and Public Comment",
+    "source/content/Categories/Projects/Digital Justice/Maine Tech Futures Coalition.md",
     "source/content/Categories/Projects/Digital Justice/Portland Police Drone/What You Need to Know.md",
     "source/content/Categories/About/About Leo.md",
     "source/content/Categories/About/Reading and Listening.md",
-    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Testimony and Public Comment.md",
-    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Public Comment.md",
-    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Council Email.md",
-    "source/content/Categories/Projects/Digital Justice/Clean Your Phone Zine.md",
-    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Learn more.md",
+    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Testimony and Public Comment/Public Comment.md",
+    "source/content/Categories/Projects/Digital Justice/Portland Police Drone/Testimony and Public Comment/Council Email.md",
     "source/content/Categories/Projects/Digital Justice/Maine Surveillance Tech.md",
     "source/docs/Draft/Tools I like using.md",
     "source/docs/advanced/paths.md",
@@ -219,7 +223,6 @@
     "README.md",
     "source/CODE_OF_CONDUCT.md",
     "source/README.md",
-    "source/docs/Draft/Campaigns/Maine Tech Futures Coalition.md",
     "source/docs/Draft/Reading.md",
     "source/content/index.md",
     "Zine.pdf",
@@ -230,14 +233,11 @@
     "source/docs/showcase.md",
     "source/docs/layout.md",
     "source/docs/index.md",
-    "source/docs/configuration.md",
     "source/content/Categories/Projects/Digital Justice/Portland Police Drone",
     "source/content/Categories/Projects/Digital Justice",
     "source/content/Categories/Projects/Writing",
     "source/content/Categories/About",
     "Untitled",
-    "source/docs/Draft",
-    "source/content/Categories/Projects",
-    "source/docs/Draft/Writing"
+    "source/docs/Draft"
   ]
 }
